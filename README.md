@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green.svg)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-kNN-orange.svg)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # 🎨 Real-Time Color Detection using OpenCV
 
 A complete computer vision project that demonstrates **real-time color detection** using a webcam.  
