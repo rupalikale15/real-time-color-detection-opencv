@@ -1,0 +1,11 @@
+color,color_name,hex,R,G,B
+1,Red,#FF0000,255,0,0
+2,Green,#00FF00,0,255,0
+3,Blue,#0000FF,0,0,255
+4,Yellow,#FFFF00,255,255,0
+5,White,#FFFFFF,255,255,255
+6,Black,#000000,0,0,0
+7,Orange,#FFA500,255,165,0
+8,Purple,#800080,128,0,128
+9,Pink,#FFC0CB,255,192,203
+10,Brown,#8B4513,139,69,19
