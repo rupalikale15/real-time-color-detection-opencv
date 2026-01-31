@@ -52,11 +52,6 @@ real-time-color-detection-opencv/
 └── README.md
 ## 🧪 Implemented Approaches
 
-### 🔹 Option C — Click-Based RGB Detection
-- Detects color by clicking on a pixel
-- Uses RGB distance matching
-- Beginner-friendly baseline
-
 ### 🔹 Option A — HSV + CSV Logging (Recommended)
 - Uses HSV color space (robust to lighting)
 - Logs detected colors into CSV
@@ -66,6 +61,11 @@ real-time-color-detection-opencv/
 - Automatically detects dominant color in frame
 - Uses K-Means clustering
 - Classifies color using kNN (Machine Learning)
+
+### 🔹 Option C — Click-Based RGB Detection
+- Detects color by clicking on a pixel
+- Uses RGB distance matching
+- Beginner-friendly baseline
 
 ---
 
@@ -100,3 +100,10 @@ python option_a_hsv_csv.py
 python plot_color_graph.py
 4️⃣ Run ML-based dominant color detection
 python option_b_dominant_ml.py
+---
+Outputs
+<img width="990" height="775" alt="Screenshot 2026-01-09 155511" src="https://github.com/user-attachments/assets/de92879f-7f9f-4c71-92d0-6603b7bf042b" />
+<img width="1001" height="784" alt="Screenshot 2026-01-09 162024" src="https://github.com/user-attachments/assets/b1333b73-e5d4-49d2-92b6-0ed257772976" />
+<img width="779" height="675" alt="Screenshot 2026-01-09 164300" src="https://github.com/user-attachments/assets/039eba0b-6cbf-4d9e-91cd-06f9c5c779b2" />
+
+
