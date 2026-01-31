@@ -75,6 +75,10 @@ Detected color frequency visualization:
 
 ![Color Frequency](outputs/color_frequency.png)
 
+Outputs
+<img width="1001" height="784" alt="Screenshot 2026-01-09 162024" src="https://github.com/user-attachments/assets/cb1bf77e-6dda-4da7-86aa-10851aa68296" />
+<img width="990" height="775" alt="Screenshot 2026-01-09 155511" src="https://github.com/user-attachments/assets/900a7517-ee10-4580-9e4b-c259f75ecb0f" />
+
 ---
 
 ## ⚙️ Tech Stack
@@ -101,9 +105,6 @@ python plot_color_graph.py
 4️⃣ Run ML-based dominant color detection
 python option_b_dominant_ml.py
 ---
-Outputs
-<img width="990" height="775" alt="Screenshot 2026-01-09 155511" src="https://github.com/user-attachments/assets/de92879f-7f9f-4c71-92d0-6603b7bf042b" />
-<img width="1001" height="784" alt="Screenshot 2026-01-09 162024" src="https://github.com/user-attachments/assets/b1333b73-e5d4-49d2-92b6-0ed257772976" />
-<img width="779" height="675" alt="Screenshot 2026-01-09 164300" src="https://github.com/user-attachments/assets/039eba0b-6cbf-4d9e-91cd-06f9c5c779b2" />
+
 
 
